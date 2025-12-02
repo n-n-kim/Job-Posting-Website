@@ -48438,7 +48438,7 @@ CREATE TABLE `company` (
 --
 
 INSERT INTO `company` (`id_company`, `name`, `companyname`, `country`, `state`, `city`, `contactno`, `website`, `email`, `password`, `aboutme`, `logo`, `createdAt`, `active`) VALUES
-(1, 'Dieter Stephens', 'Vestibulum Ltd', 'District 10', 'Comunitat Valenciana', 'Elx', '0350 095 7380', 'http://learningfromscratch.online/', 'admin1@gmail.com', 'ZTM4OGYwMmY3NTBlNjVlYmJhOTVhYjk0OTNjZGEwMWU=', NULL, '59cd0fd60ae8b.png', '2017-10-10 12:44:33', 1),
+(1, 'Dieter Stephens', 'Vestibulum Ltd', 'District 10', 'Comunitat Valenciana', 'Elx', '0350 095 7380', 'http://learningfromscratch.online/', 'company1@gmail.com', 'ZTM4OGYwMmY3NTBlNjVlYmJhOTVhYjk0OTNjZGEwMWU=', NULL, '59cd0fd60ae8b.png', '2017-10-10 12:44:33', 1),
 (2, 'Chelsea Terrell', 'Proin Limited', 'Binh Tan', 'Wie', 'Vienna', '0800 085 4815', 'http://learningfromscratch.online/', 'admin2@gmail.com', 'ZTM4OGYwMmY3NTBlNjVlYmJhOTVhYjk0OTNjZGEwMWU=', NULL, '59cd0fd60ae8b.png', '2017-10-10 12:44:33', 1),
 (3, 'Mercedes Padilla', 'Amet Inc.', 'Maldives', 'Z.', 'Zoetermeer', '07739 759807', 'http://learningfromscratch.online/', 'admin3@gmail.com', 'ZTM4OGYwMmY3NTBlNjVlYmJhOTVhYjk0OTNjZGEwMWU=', NULL, '59cd0fd60ae8b.png', '2017-10-10 12:44:33', 1),
 (4, 'Teagan Gibson', 'Ante Maecenas Industries', 'Benin', 'VII', 'Pelluhue', '0909 629 1886', 'http://learningfromscratch.online/', 'admin4@gmail.com', 'ZTM4OGYwMmY3NTBlNjVlYmJhOTVhYjk0OTNjZGEwMWU=', NULL, '59cd0fd60ae8b.png', '2017-10-10 12:44:33', 1),
