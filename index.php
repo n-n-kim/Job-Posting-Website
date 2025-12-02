@@ -332,29 +332,40 @@ require_once("db.php");
       </div>
     </section>
 
-    <section id="about" class="content-header">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12 text-center latest-job margin-bottom-20">
-            <h1>About US</h1>                      
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-6">
-            <img src="img/browse.jpg" class="img-responsive">
-          </div>
-          <div class="col-md-6 about-text margin-bottom-20">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing <p>The online job portal application allows job seekers and recruiters to connect.The application provides the ability for job seekers to create their accounts, upload their profile and resume, search for jobs, apply for jobs, view different job openings. The application provides the ability for companies to create their accounts, search candidates, create job postings, and view candidates applications.
-            </p>
-            <p>
-              This website is used to provide a platform for potential candidates to get their dream job and excel in yheir career.
-              This site can be used as a paving path for both companies and job-seekers for a better life .
-              
-            </p>
-          </div>
-        </div>
+<section id="about" class="content-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 text-center latest-job margin-bottom-20">
+        <h1>Về Chúng Tôi</h1> 
       </div>
-    </section>
+    </div>
+    
+    <div class="row">
+      <div class="col-md-6">
+        <img src="img/browse.jpg" class="img-responsive">
+      </div>
+      
+      <div class="col-md-6 about-text margin-bottom-20">
+        
+        <h2 style="color: #0e2b93;"><i class="fa fa-graduation-cap"></i> CSE Jobs Search (HCMUT Focus)</h2>
+        
+        <p class="lead text-justify">
+            <strong>CSE Jobs Search</strong> was specifically created to serve as the premier recruitment platform connecting 
+            <strong>top talent</strong> from the <strong>Department of Computer Science and Engineering (CSE), Ho Chi Minh City University of Technology (HCMUT)</strong> 
+            with the industry's best opportunities.
+        </p>
+
+        <p class="text-justify">
+            We recognize the rigor and quality of the technical training provided by HCMUT-CSE. Our mission is to ensure that the cutting-edge expertise 
+            in software engineering, data science, and systems development nurtured within the university is channeled directly to firms that value this 
+            specific caliber of talent.
+        </p>
+        
+        <hr>
+      </div>
+    </div>
+  </div>
+</section>
 
   </div>
   <!-- /.content-wrapper -->
