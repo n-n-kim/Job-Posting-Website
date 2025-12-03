@@ -51,7 +51,7 @@ require_once("../db.php");
       <!-- mini logo for sidebar mini 50x50 pixels -->
       <span class="logo-mini"><b>J</b>P</span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg"><b>Job</b> Portal</span>
+      <span class="logo-lg"><b>CSE</b> Jobs Search</span>
     </a>
 
     <!-- Header Navbar: style can be found in header.less -->
@@ -141,7 +141,7 @@ require_once("../db.php");
                     <label>Change Company Logo</label>
                     <input type="file" name="image" class="btn btn-default">
                     <?php if($row['logo'] != "") { ?>
-                    <img src="../uploads/logo/<?php echo $row['logo']; ?>" class="img-responsive" style="max-height: 200px; max-width: 200px;">
+                    <img src="../uploads/logo/company_icon.png" class="img-responsive" style="max-height: 200px; max-width: 200px;">
                     <?php } ?>
                   </div>
                 </div>
@@ -171,7 +171,7 @@ require_once("../db.php");
 
   <footer class="main-footer" style="margin-left: 0px;">
     <div class="text-center">
-      <strong>Copyright &copy; 2016-2017 <a href="learningfromscratch.online">Job Portal</a>.</strong> All rights
+      <strong>Copyright &copy; 2025 <a href="learningfromscratch.online">CSE Jobs Search</a>.</strong> All rights
     reserved.
     </div>
   </footer>

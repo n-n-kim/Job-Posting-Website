@@ -115,10 +115,10 @@ require_once("db.php");
               <div class="box-body no-padding">
                 <ul class="nav nav-pills nav-stacked tree" data-widget="tree">
                   <li class="treeview menu-open">
-                    <a href="#"><i class="fa fa-plane text-red"></i> City <span class="pull-right"><i class="fa fa-angle-down pull-right"></i></span></a>
+                    <a href="#"><i class="fa fa-plane text-red"></i> Area <span class="pull-right"><i class="fa fa-angle-down pull-right"></i></span></a>
                     <ul class="treeview-menu">
-                      <li><a href=""  class="citySearch" data-target="Delhi"><i class="fa fa-circle-o text-yellow"></i> Delhi</a></li>
-                      <li><a href="" class="citySearch" data-target="Kouba"><i class="fa fa-circle-o text-yellow"></i> Kouba</a></li>
+                      <li><a href=""  class="citySearch" data-target="Delhi"><i class="fa fa-circle-o text-yellow"></i> District 1</a></li>
+                      <li><a href="" class="citySearch" data-target="Kouba"><i class="fa fa-circle-o text-yellow"></i> District 10</a></li>
                     </ul>
                   </li>
                   <li class="treeview menu-open">

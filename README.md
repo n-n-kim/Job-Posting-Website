@@ -18,7 +18,7 @@ $dbname = "jobportal";
 Step2: Now you login as candidate with following details
 
 ```php
-Email: user1@gmail.com
+Email: .com
 Password: 123456
 //Note1: There are 100 candadates users all with same password-123456
 //Note2: All Password are encrpyted through code so you CANNOT change password directly from database.
